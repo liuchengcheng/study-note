@@ -1,6 +1,10 @@
 # coreJava
 
 #### hashcode相等两个类一定相等吗，equals呢，相反呢
+
+> hashcode相等的两个类不一定相等，equals相等的两个类hashcode必须相等，否则在hashset获者hashmap中，
+> 如果equals相等但是hashcode不相等，得不到正确的结果
+
 #### 介绍一下集合框架
 #### hashmap和hashtable底层实现有什么区别
 #### hashtable和cocurrenthashmap呢
