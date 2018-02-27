@@ -1,6 +1,6 @@
 # 在Docker内安装Head插件
 
-<https://www.jianshu.com/p/8091adadfc1b>
+> 原网址：<https://www.jianshu.com/p/8091adadfc1b>
 
 ### 1、进行container,安装插件
 ```
