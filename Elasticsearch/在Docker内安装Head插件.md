@@ -1,5 +1,7 @@
 # 在Docker内安装Head插件
 
+<https://www.jianshu.com/p/8091adadfc1b>
+
 ### 1、进行container,安装插件
 ```
 docker exec -it elasticsearch /bin/bash
