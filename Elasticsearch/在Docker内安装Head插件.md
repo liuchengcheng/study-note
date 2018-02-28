@@ -44,7 +44,7 @@ npm -v
 ### 5、开始安装Head插件
 ```
 cd /usr/share/elasticsearch/plugins/
-git clone git://github.com/mobz/elasticsearch-head.git
+git clone https://github.com/mobz/elasticsearch-head.git
 cd elasticsearch-head
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 npm install grunt --save
